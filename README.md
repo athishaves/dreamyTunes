@@ -6,7 +6,7 @@ Highly inspired by https://www.youtube.com/@math-floyd/shorts, tried exploring t
 https://github.com/athishaves/dreamyTunes/assets/47027954/7efe6629-22af-42f4-8bbc-9b47e45350c4
 
 **Instructions**
-1. Requires python3, pygame and cv2
+1. Requires python3, pygame, cv2, ffmpeg and maybe linux (i haven't checked in windows)
 2. Get audio and midi files of the song
 3. Use https://www.visipiano.com/midi-to-json-converter/ to convert midi to json
 4. Run the program
